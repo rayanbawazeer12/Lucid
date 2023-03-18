@@ -1,7 +1,5 @@
 .color{
 	animation: changeBg 10s linear infinite;
-	block-size: 180%;
-	background-size: 1000%;
 }
 .footer{
 	animation: changeBgFooter 10s linear infinite;
